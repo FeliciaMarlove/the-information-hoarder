@@ -17,5 +17,9 @@ We only need self-esteem when we don't have enough of it, but in itself it doesn
 
 (Not directly related to meditation.) One needs mindfulness to achieve congruence (harmony between one's ideal self and one's actual experience). Living in "automatic pilot" mode doesn't allow one to find congruence. Mindfulness can be assessed with the MAAS (Mindful Attention Awareness Scale) questionnaire.
 
+# Emotions
+
+A positive emotion is a feedback that one's goal is close to or on the way to be reached. A negative emotion is a sign that something's preventing from reaching or heading towards that goal.
+
 # References
-Book: "En toute puissance" (French)
+Book: "En toute puissance" (French), free ebook from the "Hacking social" blog (French)
