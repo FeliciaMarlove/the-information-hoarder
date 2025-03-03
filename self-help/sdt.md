@@ -21,5 +21,11 @@ We only need self-esteem when we don't have enough of it, but in itself it doesn
 
 A positive emotion is a feedback that one's goal is close to or on the way to be reached. A negative emotion is a sign that something's preventing from reaching or heading towards that goal.
 
+# Intrinsic motivation
+
+Intrinsic motivation refers to the activities we would do if we weren't expecting any reward (recognition, salary, love...) and wouldn't be under any constraint (paying rent and groceries...). Those motivations are destroyed or damaged by controlling environments. One needs autonomy, competence, relatedness and mindfulness to recognize and practice activities that are motivated by intrinsic motivation.
+
+Extrinsic motivations, like status and wealth, are highly dependent on external factors and don't allow people to be autonomous. For example, status or wealth are highly dependant on the market, it requires to make connections with specific people (even when we don't want to).
+
 # References
 Book: "En toute puissance" (French), free ebook from the "Hacking social" blog (French)
