@@ -4,7 +4,7 @@ title: "SDT (Self-Determination Theory)"
 category: "Self-help"
 ---
 
-SDT stands for Self-Determination Theory
+💡SDT stands for Self-Determination Theory
 
 # Universal psychological needs
 We have 3 universal psychological needs (given our physiological needs are met):

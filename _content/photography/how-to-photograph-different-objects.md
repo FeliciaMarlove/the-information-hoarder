@@ -4,7 +4,7 @@ title: "How to photograph..."
 category: "Photography"
 ---
 
-# How to take pictures of different subjects
+# How to take pictures of different objects
 
 ## Flowers
 
