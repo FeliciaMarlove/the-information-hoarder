@@ -12,7 +12,7 @@ title: Home
     <li><h2>{{ category.name }}</h2>
         <ul>
             {% for article in category.items %}
-            <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+            <li><a href="{{ article.url | absolute_url }}">{{ article.title }}</a></li>
             {% endfor %}
         </ul>
     </li>

@@ -1,6 +1,8 @@
 title: The information hoarder
 author: Florence Mary
 description: A place to gather my notes on the many topics I get interest in.
+url: "https://feliciamarlove.github.io"
+baseurl: "/the-information-hoarder"
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
