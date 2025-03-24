@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: page
 title: "Basics"
 category: "Photography"
 ---
 
 # Photography basics
 
-Also see Exposure triangle
+💡Also see Exposure triangle
 
 ## Aperture fx.x
 A small number = a big aperture. The smaller the number, the more light comes in. If there's a lot of natural light, we don't need a big aperture (eg f/16 for pictures in bright sun). If there isn't much light, we need a big aperture (eg f/4 for pictures at dawn).

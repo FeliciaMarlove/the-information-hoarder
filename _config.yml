@@ -22,3 +22,5 @@ collections:
   content:
     output: true
     permalink: content/:path/
+
+markdown: kramdown

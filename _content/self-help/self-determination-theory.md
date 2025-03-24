@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "SDT (Self-Determination Theory)"
 category: "Self-help"
 ---
