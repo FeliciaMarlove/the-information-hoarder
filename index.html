@@ -5,10 +5,16 @@ title: Home
 
 
 <h1>Table of Contents</h1>
-{% assign content_folder = site.content | sort: "path" %}
+{% assign content_folder = site.content | sort: "path" | group_by: "category" %}
 
-{% for article in content_folder %}
-<h2>
-    <a href="{{ article.url }}">{{article.category}} - {{ article.name | capitalize }}</a>
-</h2>
-{% endfor %}
+<ul>
+    {% for category in content_folder %}
+    <li><h2>{{ category.name }}</h2>
+        <ul>
+            {% for article in category.items %}
+            <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </li>
+    {% endfor %}
+</ul>
