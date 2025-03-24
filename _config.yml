@@ -15,54 +15,10 @@ minima:
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
 
-navbar-links:
-  Blog: "https://thecodeshewrites.com/"
-
-# If you want to link only specific pages in the site-navigation, use this and list
-# the `path` property (as represented via Liquid) of the pages in the order they should
-# be rendered.
-nav_pages:
-
 # minima config documentation https://github.com/jekyll/minima/blob/5816a8babce0b36a6840d99fe1833794af3bfda4/_config.yml
 
-social-networks-links:
-  mastodon: https://hachyderm.io/home
-  rss: true
-
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-  reddit: false
-
-title-on-all-pages: true
-
-# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
-# If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
-
-# Exclude these files from production site
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - docs/
-  - .github/
+# Used for TOC generation
+collections:
+  content:
+    output: true
+    permalink: content/:path/

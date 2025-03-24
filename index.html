@@ -1,1 +1,14 @@
-index file
+---
+layout: default
+title: Home
+---
+
+
+<h1>Table of Contents</h1>
+{% assign content_folder = site.content | sort: "path" %}
+
+{% for article in content_folder %}
+<h2>
+    <a href="{{ article.url }}">{{article.category}} - {{ article.name | capitalize }}</a>
+</h2>
+{% endfor %}
